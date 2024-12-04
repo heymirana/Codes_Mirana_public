@@ -1,4 +1,4 @@
-# Codes_Mirana_public
+# Tricount
 
 
 Machine learning on spotify to define if song is principal or alterate 
